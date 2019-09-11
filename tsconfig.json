@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "moduleResolution": "node",
+        "outDir": "out",
+        "module": "commonjs"
+    },
+    "include": ["src"]
+}
